@@ -6,6 +6,8 @@ import static io.restassured.RestAssured.given;
 
 public class AccountsReadynessTest {
 
+    private String environment=System.getProperty("env");
+
 @Test
     public void isAccountready(){
             String accessToken=given()
@@ -15,7 +17,7 @@ public class AccountsReadynessTest {
                             "    \"username\": \"bdsolqe@gmail.com\", \n" +
                             "    \"passcode\": \"192837\"\n" +
                             "}")
-                    .post("https://api-dev.bdsdigital.com.ar/auth/v1/sign-in")
+                    .post("https://api-"+environment+".bdsdigital.com.ar/auth/v1/sign-in")
                     .then()
                     .extract().response().jsonPath().get("accessToken");
 
@@ -23,7 +25,7 @@ public class AccountsReadynessTest {
                     .contentType(ContentType.JSON)
                     .log().all()
                     .header("Authorization", "Bearer "+accessToken)
-                    .get("https://accounts-dev.bdsdigital.com.ar/accounts/v1/me")
+                    .get("https://accounts-"+environment+".bdsdigital.com.ar/accounts/v1/me")
                     .then()
                     .statusCode(200);
 }
