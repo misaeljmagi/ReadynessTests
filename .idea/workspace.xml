@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="745a1abd-e3b3-40ed-b453-44f873f977ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AccountsReadynessTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AccountsReadynessTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/api-auto-resassured-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/api-auto-resassured-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
