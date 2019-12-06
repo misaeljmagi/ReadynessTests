@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="api-auto-resassured" />
         <module name="ReadynessTests" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="api-auto-resassured" target="1.5" />
       <module name="ReadynessTests" target="1.5" />
     </bytecodeTargetLevel>
   </component>

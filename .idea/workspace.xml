@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="745a1abd-e3b3-40ed-b453-44f873f977ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ReadynessTests/rest-assured-example/ReadynessTests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReadynessTests/rest-assured-example/src/test/java/AccountsReadynessTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReadynessTests/rest-assured-example/db.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReadynessTests/rest-assured-example/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadynessTests/rest-assured-example/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReadynessTests/rest-assured-example/src/main/java/TestBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReadynessTests/rest-assured-example/src/main/java/models/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReadynessTests/rest-assured-example/src/main/java/models/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReadynessTests/rest-assured-example/src/main/resources/config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReadynessTests/rest-assured-example/src/test/java/PetsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReadynessTests/rest-assured-example/src/test/java/UsersTest.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-assured-example/ReadynessTests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-assured-example/src/test/java/AccountsReadynessTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-assured-example/db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-assured-example/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rest-assured-example/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-assured-example/src/main/java/TestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-assured-example/src/main/java/models/Pet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-assured-example/src/main/java/models/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-assured-example/src/main/resources/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-assured-example/src/test/java/PetsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-assured-example/src/test/java/UsersTest.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ReadynessTests/rest-assured-example" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -47,7 +47,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../ReadynessTests" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -69,53 +69,6 @@
       <option name="MAIN_CLASS_NAME" value="AccountsReadynessTest" />
       <option name="METHOD_NAME" value="isAccountready" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="ReadynessTests" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="ReadynessTests" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>

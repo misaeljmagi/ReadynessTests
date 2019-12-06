@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../ReadynessTests/ReadynessTests/ReadynessTests.iml" filepath="$PROJECT_DIR$/../ReadynessTests/ReadynessTests/ReadynessTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadynessTests/ReadynessTests.iml" filepath="$PROJECT_DIR$/ReadynessTests/ReadynessTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-auto-resassured.iml" filepath="$PROJECT_DIR$/api-auto-resassured.iml" />
     </modules>
   </component>
 </project>
